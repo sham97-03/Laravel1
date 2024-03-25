@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'error'=>'يجب أن يكون رقم الهاتف مؤلف من عشرة أرقام و يبدأ ب 09',
+    'logged_out' => 'تم تسجيل الخروج',
+    'phone_number_or_password_wrong' => 'رقم الهاتف أو كلمة المرور غير صحيحة.',
+    'medicine_created' => 'تم إنشاء الدواء',
+    'medicine_not_created' => 'لم يتم إنشاء الدواء',
+    'medicine_found' => 'تم العثور على الدواء',
+    'medicine_not_found' => 'لم يتم العثور على الدواء',
+    'medicine_details_retrieved' => 'تم استرجاع تفاصيل الدواء بنجاح',
+    'medicine_not_found_404' => 'لم يتم العثور على الدواء',
+    'medicine_added_to_wishlist' => 'تمت إضافة الدواء إلى قائمة الرغبات',
+    'pharmacist_not_authenticated' => 'الصيدلي غير مصادق عليه.',
+    'order_requested_successfully' => 'تم طلب الطلب بنجاح',
+    'order_update_failed' => 'فشل تحديث الطلب',
+    'order_updated_successfully' => 'تم تحديث الطلب بنجاح',
+    'medicine_not_found' => 'لم يتم العثور على الدواء',
+    'requested_quantity_exceeds_available' => 'الكمية المطلوبة تتجاوز الكمية المتاحة في المستودع.',
+    'orders_retrieved_successfully' => 'تم استرجاع الطلبات بنجاح.',
+    'all_orders_retrieved_successfully' => 'إليك جميع طلباتك',
+    'admin_not_authenticated' => 'المشرف غير مصدق عليه.',
+    'all_notifications_marked_as_read' => 'تم وضع علامة على جميع الإشعارات كمقروءة',
+    'selected_notifications_marked_as_read' => 'تم وضع علامة على الإشعارات المحددة كمقروءة',
+    'notification_marked_as_read' => 'تم وضع علامة على الإشعار كمقروء',
+    'all_admin_notifications_marked_as_read' => 'تم وضع علامة على جميع إشعارات المشرف كمقروءة',
+    'selected_admin_notifications_marked_as_read' => 'تم وضع علامة على إشعارات المشرف المحددة كمقروءة',
+    'admin_notification_marked_as_read' => 'تم وضع علامة على إشعار المشرف كمقروء',
+
+];
